@@ -1,0 +1,2 @@
+# hyperparameters_optimization
+Derin öğrenme uygulamalarında hyperparametrelerin optimizasyonu yöntemleri
