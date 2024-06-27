@@ -1,2 +1,2 @@
-# hyperparameters_optimization
-Derin öğrenme uygulamalarında hyperparametrelerin optimizasyonu yöntemleri
+# Hiperparametrelerin optimizasyonu
+Derin öğrenme uygulamalarında ki en önemli adımlardan biri olan hyperparametrelerin optimizasyonu adına uyguladığım bazı paketler ve yöntemleri tek bir repoda birleştirmeye karar verdim. Buradaki yöntemler için oluşturulan kodlar deneme amaçlı kullanılmış olup geliştirilmeye aç bırakılmıştır. Kullanıcak kişilerin bu yöntemleri uygulama kısmında uygulama kısmında yeterli yetkinlikleri sağlamalıdırlar.
